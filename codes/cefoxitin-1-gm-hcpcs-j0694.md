@@ -1,6 +1,6 @@
 # Cefoxitin 1 gm (HCPCS J0694)
 
-_Last updated: 2026-08-05 22:35 UTC_
+_Last updated: 2026-08-05 22:52 UTC_
 
 ## Leverage Summary
 
