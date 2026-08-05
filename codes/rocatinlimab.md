@@ -1,6 +1,6 @@
 # Rocatinlimab
 
-_Last updated: 2026-08-05 08:51 UTC_
+_Last updated: 2026-08-05 08:56 UTC_
 
 ## Leverage Summary
 
