@@ -1,6 +1,6 @@
 # Cimzia
 
-_Last updated: 2026-08-05 08:11 UTC_
+_Last updated: 2026-08-05 08:46 UTC_
 
 ## Leverage Summary
 
