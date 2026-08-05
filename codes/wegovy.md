@@ -1,6 +1,6 @@
 # Wegovy
 
-_Last updated: 2026-08-05 11:49 UTC_
+_Last updated: 2026-08-05 13:04 UTC_
 
 ## Leverage Summary
 
@@ -14,9 +14,11 @@ _Last updated: 2026-08-05 11:49 UTC_
 
 ### Regulatory & Pricing Benchmarks (-3.0)
 
-CMS has announced that Medicare will cover Wegovy under the GLP‑1 Bridge program starting July 1 2026, providing Cigna with a clear benchmark and regulatory reference point to negotiate lower rates. This coverage signals that CMS will set a price floor and limits Cigna’s ability to charge above that benchmark, favoring Cigna’s negotiating position.
+Medicare GLP‑1 Bridge coverage under Part D provides a benchmark price that Cigna can use to negotiate lower rates for Wegovy, giving Cigna leverage.
 
 ## Supporting Facts
 
 - **[Regulatory & Pricing Benchmarks]** Medicare GLP-1 Bridge covers Wegovy starting July 1, 2026.  
   _source: <http://medicare.gov/glp1bridge>_
+- **[Regulatory & Pricing Benchmarks]** Medicare GLP-1 Bridge covers Wegovy (injection or tablet) under Medicare Part D starting July 1, 2026.  
+  _source: <http://medicare.gov/publications/12234-medicare-glp-1-bridge-glp-1-drugs-for-50-a-month.pdf>_
