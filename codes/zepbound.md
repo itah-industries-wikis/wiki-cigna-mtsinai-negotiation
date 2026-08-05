@@ -1,6 +1,6 @@
 # Zepbound
 
-_Last updated: 2026-08-05 11:14 UTC_
+_Last updated: 2026-08-05 11:29 UTC_
 
 ## Leverage Summary
 
