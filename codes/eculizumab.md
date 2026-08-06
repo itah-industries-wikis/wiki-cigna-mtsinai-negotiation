@@ -1,6 +1,6 @@
 # Eculizumab
 
-_Last updated: 2026-08-06 04:58 UTC_
+_Last updated: 2026-08-06 05:28 UTC_
 
 ## Leverage Summary
 
