@@ -1,6 +1,6 @@
 # MS-DRG 786
 
-_Last updated: 2026-08-06 18:00 UTC_
+_Last updated: 2026-08-06 18:09 UTC_
 
 ## Leverage Summary
 
