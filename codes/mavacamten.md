@@ -1,6 +1,6 @@
 # Mavacamten
 
-_Last updated: 2026-08-06 19:10 UTC_
+_Last updated: 2026-08-06 19:21 UTC_
 
 ## Leverage Summary
 
