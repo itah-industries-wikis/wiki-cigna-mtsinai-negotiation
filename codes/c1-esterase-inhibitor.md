@@ -1,6 +1,6 @@
 # C1 esterase inhibitor
 
-_Last updated: 2026-08-06 17:03 UTC_
+_Last updated: 2026-08-06 17:20 UTC_
 
 ## Leverage Summary
 
