@@ -1,6 +1,6 @@
 # Oral flaxseed 1000‑2000 mg/day
 
-_Last updated: 2026-08-07 14:52 UTC_
+_Last updated: 2026-08-07 15:44 UTC_
 
 ## Leverage Summary
 
