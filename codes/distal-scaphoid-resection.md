@@ -1,6 +1,6 @@
 # distal scaphoid resection
 
-_Last updated: 2026-08-07 23:07 UTC_
+_Last updated: 2026-08-07 23:23 UTC_
 
 ## Leverage Summary
 
