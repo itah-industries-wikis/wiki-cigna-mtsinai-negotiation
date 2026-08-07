@@ -1,22 +1,12 @@
-# DUPIXENT
+# Dupixent
 
-_Last updated: 2026-08-07 06:23 UTC_
+_Last updated: 2026-08-07 07:33 UTC_
 
 ## Leverage Summary
 
-**Net leverage: +0.0** (negative = favors Cigna, positive = favors Mt Sinai)
-
-| Dimension | Score | Leverage |
-|---|---|---|
-| Clinical Uniqueness | +0.0 | `Cigna ──────────●────────── Mt Sinai` |
-
-## Rationale by Dimension
-
-### Clinical Uniqueness (+0.0)
-
-Mount Sinai’s involvement in an observational study of conjunctivitis in the setting of DUPIXENT treatment indicates research activity but does not establish that Mount Sinai is the sole or essential provider for this drug’s clinical use. Thus the evidence is neutral with respect to clinical uniqueness.
+_Not yet scored -- insufficient facts gathered._
 
 ## Supporting Facts
 
-- **[Clinical Uniqueness]** Mount Sinai is conducting an observational study of conjunctivitis in the setting of DUPIXENT® treatment for atopic dermatitis (ClinicalTrials.gov Identifier: NCT03992417).  
-  _source: <https://www.nyee.edu/research/ophthalmology-clinical-trials>_
+- **[unclassified]** Dupixent is the brand name for Dupilumab sold by Regeneron Pharmaceuticals.  
+  _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/Inside_May15-June-4_2017.pdf>_
