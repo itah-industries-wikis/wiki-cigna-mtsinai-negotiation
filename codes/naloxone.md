@@ -1,6 +1,6 @@
 # Naloxone
 
-_Last updated: 2026-08-07 15:44 UTC_
+_Last updated: 2026-08-07 16:03 UTC_
 
 ## Leverage Summary
 
