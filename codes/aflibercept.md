@@ -1,6 +1,6 @@
 # Aflibercept
 
-_Last updated: 2026-08-07 14:17 UTC_
+_Last updated: 2026-08-07 14:52 UTC_
 
 ## Leverage Summary
 
@@ -14,9 +14,11 @@ _Last updated: 2026-08-07 14:17 UTC_
 
 ### Clinical Uniqueness (+3.0)
 
-Mount Sinai is conducting a study on intravitreal Aflibercept for retinopathy of prematurity, a highly specialized indication that only a few tertiary centers treat, indicating a unique clinical capability that favors Mount Sinai.
+Mount Sinai is conducting a study on intravitreal Aflibercept for retinopathy of prematurity and uses it as first‑line therapy for diabetic retinopathy, indicating specialized expertise and a potentially unique role in these indications.
 
 ## Supporting Facts
 
 - **[Clinical Uniqueness]** Mount Sinai is conducting a study to assess the efficacy, safety, and tolerability of intravitreal Aflibercept compared to laser photocoagulation in patients with retinopathy of prematurity (BUTTERFLEYE).  
   _source: <https://www.nyee.edu/research/ophthalmology-clinical-trials>_
+- **[unclassified]** NYEE uses afibercept (Eylea®) as a first‑line anti‑VEGF agent for diabetic retinopathy treatment.  
+  _source: <https://www.nyee.edu/care/eye/retina/diseases/diabetic-retinopathy>_

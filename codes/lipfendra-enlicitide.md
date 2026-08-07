@@ -1,6 +1,6 @@
 # Lipfendra (enlicitide)
 
-_Last updated: 2026-08-07 14:17 UTC_
+_Last updated: 2026-08-07 14:52 UTC_
 
 ## Leverage Summary
 
