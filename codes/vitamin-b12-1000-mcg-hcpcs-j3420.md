@@ -1,6 +1,6 @@
 # Vitamin B12 1000 mcg (HCPCS J3420)
 
-_Last updated: 2026-08-07 22:47 UTC_
+_Last updated: 2026-08-07 23:07 UTC_
 
 ## Leverage Summary
 
