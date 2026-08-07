@@ -1,6 +1,6 @@
 # Restasis
 
-_Last updated: 2026-08-07 16:38 UTC_
+_Last updated: 2026-08-07 17:01 UTC_
 
 ## Leverage Summary
 
