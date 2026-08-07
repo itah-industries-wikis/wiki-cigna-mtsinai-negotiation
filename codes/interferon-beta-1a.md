@@ -1,6 +1,6 @@
 # Interferon beta-1a
 
-_Last updated: 2026-08-07 07:33 UTC_
+_Last updated: 2026-08-07 09:23 UTC_
 
 ## Leverage Summary
 

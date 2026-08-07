@@ -1,20 +1,20 @@
 # Ocrelizumab
 
-_Last updated: 2026-08-07 07:33 UTC_
+_Last updated: 2026-08-07 09:23 UTC_
 
 ## Leverage Summary
 
-**Net leverage: -3.0** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: +3.0** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
-| Clinical Uniqueness | -3.0 | `Cigna ────●──────────────── Mt Sinai` |
+| Clinical Uniqueness | +3.0 | `Cigna ────────────────●──── Mt Sinai` |
 
 ## Rationale by Dimension
 
-### Clinical Uniqueness (-3.0)
+### Clinical Uniqueness (+3.0)
 
-Ocrelizumab is a drug used to treat both primary progressive and relapsing multiple sclerosis, and it is administered by intravenous infusion every six months.  The facts describe its efficacy but do not indicate that Mount Sinai is the sole or preferred site for its administration; the drug can be delivered at many in‑network providers, making it a commodity rather than a specialty service.
+Ocrelizumab is a specialty monoclonal antibody that is the first proven treatment for primary progressive multiple sclerosis and is used at Mount Sinai’s dedicated MS center, indicating a tertiary/specialty service where Mount Sinai is a key provider.
 
 ## Supporting Facts
 
@@ -34,3 +34,5 @@ Ocrelizumab is a drug used to treat both primary progressive and relapsing multi
   _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/Inside_January-9-22_2017.pdf>_
 - **[Clinical Uniqueness]** Ocrelizumab was an investigational drug at the time of the NEJM publication in December 2016.  
   _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/Inside_January-9-22_2017.pdf>_
+- **[Clinical Uniqueness]** Mount Sinai’s Corinne Goldsmith Dickinson Center for Multiple Sclerosis was a trial site in the first pivotal Phase 3 study to show efficacy in treating primary progressive MS with ocrelizumab.  
+  _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/Inside-March21-April-3.pdf>_

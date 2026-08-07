@@ -1,25 +1,25 @@
 # dupilumab
 
-_Last updated: 2026-08-07 07:33 UTC_
+_Last updated: 2026-08-07 09:23 UTC_
 
 ## Leverage Summary
 
-**Net leverage: -1.5** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: +1.5** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
-| Regulatory & Pricing Benchmarks | -3.0 | `Cigna ────●──────────────── Mt Sinai` |
-| Clinical Uniqueness | +0.0 | `Cigna ──────────●────────── Mt Sinai` |
+| Regulatory & Pricing Benchmarks | +0.0 | `Cigna ──────────●────────── Mt Sinai` |
+| Clinical Uniqueness | +3.0 | `Cigna ────────────────●──── Mt Sinai` |
 
 ## Rationale by Dimension
 
-### Regulatory & Pricing Benchmarks (-3.0)
+### Regulatory & Pricing Benchmarks (+0.0)
 
-Dupilumab is FDA‑approved for asthma and eczema, and Medicare Part B has benchmark rates for biologics that Cigna can use as a reference to negotiate lower prices, favoring Cigna.
+The facts indicate FDA approval and fast‑track status for dupilumab, but there is no CMS benchmark rate or price transparency data cited, so Cigna has no clear regulatory reference point to push rates down.
 
-### Clinical Uniqueness (+0.0)
+### Clinical Uniqueness (+3.0)
 
-The fact that dupilumab blocks IL‑4 activity used by ovarian cancer cells indicates a unique mechanism, but it does not establish Mount Sinai as a must‑have provider for this drug, so the leverage is neutral.
+Dupilumab is described as a novel biologic that blocks IL‑4 activity, reverses eczema in a phase 1b trial, and is a game‑changer for eczema patients, indicating high clinical uniqueness that favors Mount Sinai.
 
 ## Supporting Facts
 
@@ -27,3 +27,9 @@ The fact that dupilumab blocks IL‑4 activity used by ovarian cancer cells indi
   _source: <https://icahn.mssm.edu/research/research-saves-lives/immunotherapy-and-ovarian-cancer>_
 - **[Clinical Uniqueness]** Dupilumab blocks IL‑4 activity, which ovarian cancer cells use to create a protective environment that resists immunotherapy.  
   _source: <https://icahn.mssm.edu/research/research-saves-lives/immunotherapy-and-ovarian-cancer>_
+- **[Clinical Uniqueness]** Dupilumab, a novel biologic drug from Regeneron, reversed eczema in a phase 1b trial.  
+  _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/022315-inside.pdf>_
+- **[Regulatory & Pricing Benchmarks]** The FDA fast-tracked dupilumab, potentially making it available by 2017.  
+  _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/022315-inside.pdf>_
+- **[Clinical Uniqueness]** Dupilumab is described as a game changer for eczema patients.  
+  _source: <https://inside.mountsinai.org/wp-content/uploads/sites/14/2018/03/022315-inside.pdf>_
