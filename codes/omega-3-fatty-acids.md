@@ -1,6 +1,6 @@
 # Omega-3 fatty acids
 
-_Last updated: 2026-08-07 16:29 UTC_
+_Last updated: 2026-08-07 16:38 UTC_
 
 ## Leverage Summary
 
