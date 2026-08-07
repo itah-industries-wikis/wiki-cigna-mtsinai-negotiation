@@ -1,6 +1,6 @@
 # EndoBarrier ENDO Trial
 
-_Last updated: 2026-08-07 12:17 UTC_
+_Last updated: 2026-08-07 12:36 UTC_
 
 ## Leverage Summary
 
