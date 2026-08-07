@@ -1,20 +1,20 @@
 # Infliximab
 
-_Last updated: 2026-08-07 12:01 UTC_
+_Last updated: 2026-08-07 12:17 UTC_
 
 ## Leverage Summary
 
-**Net leverage: +2.0** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: +5.0** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
-| Clinical Uniqueness | +2.0 | `Cigna ──────────────●────── Mt Sinai` |
+| Clinical Uniqueness | +5.0 | `Cigna ────────────────────● Mt Sinai` |
 
 ## Rationale by Dimension
 
-### Clinical Uniqueness (+2.0)
+### Clinical Uniqueness (+5.0)
 
-Mount Sinai’s Nephrology Division is researching infliximab for antibody‑mediated rejection and has published on its use for pyoderma gangrenosum and psoriasis, indicating a specialty focus. However, infliximab is widely available for common indications (e.g., Crohn’s disease, rheumatoid arthritis), so while Mount Sinai offers unique expertise, it is not an exclusive or mandatory provider for all infliximab patients.
+Mount Sinai’s Nephrology Division researches infliximab induction therapy for antibody‑mediated rejection, and its researchers have published on infliximab for pyoderma gangrenosum, psoriasis, ulcerative colitis, and Crohn’s disease, indicating a high level of specialty expertise and a unique clinical role for the drug.
 
 ## Supporting Facts
 
@@ -22,3 +22,9 @@ Mount Sinai’s Nephrology Division is researching infliximab for antibody‑med
   _source: <https://icahn.mssm.edu/about/departments/medicine/nephrology/research>_
 - **[Clinical Uniqueness]** Mount Sinai researchers described the use of the TNF-blocker infliximab to treat pyoderma gangrenosum and psoriasis.  
   _source: <https://icahn.mssm.edu/about/departments-offices/dermatology/history>_
+- **[Clinical Uniqueness]** Dr. Colombel has published research on subcutaneous infliximab in the LIBERTY-CD & LIBERTY-UC trials.  
+  _source: <https://profiles.icahn.mssm.edu/jean-frederic-colombe>_
+- **[Clinical Uniqueness]** Dr. Bruce E. Sands was among the first to report on the efficacy of infliximab in ulcerative colitis and served as principal investigator for a large randomized controlled trial of infliximab in fistulizing Crohn's disease.  
+  _source: <https://profiles.icahn.mssm.edu/bruce-e-sands>_
+- **[Clinical Uniqueness]** Dr. Sands has conducted extensive observational studies on infliximab outcomes in inflammatory bowel disease, including outcomes research and epidemiologic studies.  
+  _source: <https://profiles.icahn.mssm.edu/bruce-e-sands>_
