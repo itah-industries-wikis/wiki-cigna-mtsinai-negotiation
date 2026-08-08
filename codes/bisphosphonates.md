@@ -1,6 +1,6 @@
 # bisphosphonates
 
-_Last updated: 2026-08-08 08:40 UTC_
+_Last updated: 2026-08-08 09:07 UTC_
 
 ## Leverage Summary
 
