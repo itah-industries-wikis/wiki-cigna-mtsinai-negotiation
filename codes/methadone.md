@@ -1,29 +1,24 @@
-# Methadone
+# methadone
 
-_Last updated: 2026-08-08 21:56 UTC_
+_Last updated: 2026-08-08 22:40 UTC_
 
 ## Leverage Summary
 
-**Net leverage: +0.0** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: +3.0** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
 | Regulatory & Pricing Benchmarks | +3.0 | `Cigna ────────────────●──── Mt Sinai` |
-| Clinical Uniqueness | -3.0 | `Cigna ────●──────────────── Mt Sinai` |
 
 ## Rationale by Dimension
 
 ### Regulatory & Pricing Benchmarks (+3.0)
 
-Methadone’s use is limited by regulatory barriers and insurance restrictions, which constrain Cigna’s ability to negotiate and push rates down, giving Mount Sinai more leverage.
-
-### Clinical Uniqueness (-3.0)
-
-Methadone is a high‑value medication for opioid‑use disorder, but it is widely available across many providers, making it a commodity service rather than a must‑have specialty provider, favoring Cigna’s negotiating position.
+Methadone is heavily regulated—access is limited to OTP settings and subject to stigma, regulatory hurdles, and insurance restrictions—so Cigna has limited negotiating leverage and must pay higher rates to secure coverage, favoring Mount Sinai.
 
 ## Supporting Facts
 
-- **[Regulatory & Pricing Benchmarks]** Methadone remains underused due to stigma, regulatory barriers, and insurance restrictions.  
-  _source: <https://www.ama-assn.org/press-center/ama-press-releases/ama-statement-rx-and-illicit-drug-summit>_
-- **[Clinical Uniqueness]** Methadone, a medication for opioid-use disorder, cuts mortality by more than 50%.  
-  _source: <https://www.ama-assn.org/public-health/behavioral-health/what-states-can-do-boost-treatment-substance-use-disorders>_
+- **[Regulatory & Pricing Benchmarks]** Methadone remains underutilized due to stigma, regulatory hurdles, and insurance restrictions.  
+  _source: <https://www.end-overdose-epidemic.org/sites/end_overdose/files/2026-01/2025-AMA-Report-on-Substance-Use-and-Treatment-Progress-Policy-and-Future-Directions.pdf>_
+- **[Regulatory & Pricing Benchmarks]** Methadone access is limited to opioid treatment program (OTP) settings.  
+  _source: <https://www.end-overdose-epidemic.org/sites/end_overdose/files/2026-01/2025-AMA-Report-on-Substance-Use-and-Treatment-Progress-Policy-and-Future-Directions.pdf>_
