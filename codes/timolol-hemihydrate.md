@@ -1,6 +1,6 @@
 # timolol hemihydrate
 
-_Last updated: 2026-08-08 07:39 UTC_
+_Last updated: 2026-08-08 07:52 UTC_
 
 ## Leverage Summary
 
