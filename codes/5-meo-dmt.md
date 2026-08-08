@@ -1,6 +1,6 @@
 # 5-MeO-DMT
 
-_Last updated: 2026-08-08 00:06 UTC_
+_Last updated: 2026-08-08 00:38 UTC_
 
 ## Leverage Summary
 
