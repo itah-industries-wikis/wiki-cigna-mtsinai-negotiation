@@ -1,6 +1,6 @@
 # DigniCap® Scalp Cooling System
 
-_Last updated: 2026-08-08 04:21 UTC_
+_Last updated: 2026-08-08 04:26 UTC_
 
 ## Leverage Summary
 
