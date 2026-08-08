@@ -1,6 +1,6 @@
 # Interferon‑α2b
 
-_Last updated: 2026-08-08 19:14 UTC_
+_Last updated: 2026-08-08 20:03 UTC_
 
 ## Leverage Summary
 
