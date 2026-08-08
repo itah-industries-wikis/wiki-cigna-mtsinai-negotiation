@@ -1,6 +1,6 @@
 # Metformin
 
-_Last updated: 2026-08-08 08:05 UTC_
+_Last updated: 2026-08-08 08:15 UTC_
 
 ## Leverage Summary
 
