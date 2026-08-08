@@ -1,6 +1,6 @@
 # SPRAVATO
 
-_Last updated: 2026-08-08 17:05 UTC_
+_Last updated: 2026-08-08 18:29 UTC_
 
 ## Leverage Summary
 
