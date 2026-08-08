@@ -1,25 +1,25 @@
 # Buprenorphine
 
-_Last updated: 2026-08-08 20:03 UTC_
+_Last updated: 2026-08-08 20:46 UTC_
 
 ## Leverage Summary
 
-**Net leverage: -3.0** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: -2.5** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
 | Regulatory & Pricing Benchmarks | -3.0 | `Cigna ────●──────────────── Mt Sinai` |
-| Clinical Uniqueness | -3.0 | `Cigna ────●──────────────── Mt Sinai` |
+| Clinical Uniqueness | -2.0 | `Cigna ──────●────────────── Mt Sinai` |
 
 ## Rationale by Dimension
 
 ### Regulatory & Pricing Benchmarks (-3.0)
 
-CMS notes buprenorphine remains underused due to stigma and insurance restrictions, but FDA and AMA changes are removing dose limits and expanding prescribing authority to all DEA‑registered physicians, giving Cigna a stronger reference point to negotiate lower rates.
+CMS notes buprenorphine remains underused due to regulatory barriers and insurance restrictions, but recent FDA labeling changes and AMA calls to eliminate dose limits are expanding prescriber eligibility, giving Cigna a benchmark‑based leverage to negotiate lower rates.
 
-### Clinical Uniqueness (-3.0)
+### Clinical Uniqueness (-2.0)
 
-Buprenorphine is a widely available medication that cuts mortality by >50% for opioid‑use disorder, and higher doses are now deemed appropriate, indicating it is a commodity drug rather than a specialty service that Mount Sinai would uniquely provide.
+Buprenorphine is a widely available medication for opioid‑use disorder, not a specialty service tied to a single provider; thus Mount Sinai is not a must‑have provider for this drug, favoring Cigna.
 
 ## Supporting Facts
 
@@ -35,3 +35,7 @@ Buprenorphine is a widely available medication that cuts mortality by >50% for o
   _source: <https://www.ama-assn.org/topics/medications-treat-opioid-use-disorder-moud>_
 - **[Regulatory & Pricing Benchmarks]** AMA calls to eliminate buprenorphine dose limits to provide adequate treatment.  
   _source: <https://www.ama-assn.org/topics/medications-treat-opioid-use-disorder-moud>_
+- **[Clinical Uniqueness]** Buprenorphine is offered to patients with substance use disorder to transition from full agonists or street opioids.  
+  _source: <https://www.ama-assn.org/delivering-care/opioids/how-talk-about-substance-use-disorders-your-patients>_
+- **[Clinical Uniqueness]** Dr. Fessler is a waivered buprenorphine prescriber and her practice treats opioid use disorders in house.  
+  _source: <https://www.ama-assn.org/delivering-care/opioids/treating-substance-use-disorder-family-physician>_
