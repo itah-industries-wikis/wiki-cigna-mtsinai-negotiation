@@ -1,6 +1,6 @@
 # Aflibercept
 
-_Last updated: 2026-08-09 07:26 UTC_
+_Last updated: 2026-08-09 07:45 UTC_
 
 ## Leverage Summary
 
