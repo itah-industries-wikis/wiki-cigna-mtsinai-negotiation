@@ -1,6 +1,6 @@
 # Ceftriaxone 250 mg (HCPCS J0696)
 
-_Last updated: 2026-08-09 00:37 UTC_
+_Last updated: 2026-08-09 01:11 UTC_
 
 ## Leverage Summary
 
