@@ -1,6 +1,6 @@
 # DE-109 Sirolimus
 
-_Last updated: 2026-08-09 16:52 UTC_
+_Last updated: 2026-08-09 17:15 UTC_
 
 ## Leverage Summary
 
