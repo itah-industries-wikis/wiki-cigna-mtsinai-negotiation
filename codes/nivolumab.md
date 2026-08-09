@@ -1,6 +1,6 @@
 # Nivolumab
 
-_Last updated: 2026-08-09 20:34 UTC_
+_Last updated: 2026-08-09 20:46 UTC_
 
 ## Leverage Summary
 
