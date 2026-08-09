@@ -1,6 +1,6 @@
 # Mount Sinai Health System
 
-_Last updated: 2026-08-09 13:25 UTC_
+_Last updated: 2026-08-09 13:54 UTC_
 
 ## Leverage Summary
 
