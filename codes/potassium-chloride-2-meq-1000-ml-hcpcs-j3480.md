@@ -1,6 +1,6 @@
 # Potassium Chloride 2 meq 1000 ml (HCPCS J3480)
 
-_Last updated: 2026-08-09 21:57 UTC_
+_Last updated: 2026-08-09 22:21 UTC_
 
 ## Leverage Summary
 
