@@ -1,6 +1,6 @@
 # Fluorine-18
 
-_Last updated: 2026-08-09 08:51 UTC_
+_Last updated: 2026-08-09 09:22 UTC_
 
 ## Leverage Summary
 

@@ -1,20 +1,20 @@
 # Infliximab
 
-_Last updated: 2026-08-09 08:51 UTC_
+_Last updated: 2026-08-09 09:22 UTC_
 
 ## Leverage Summary
 
-**Net leverage: +5.0** (negative = favors Cigna, positive = favors Mt Sinai)
+**Net leverage: +4.0** (negative = favors Cigna, positive = favors Mt Sinai)
 
 | Dimension | Score | Leverage |
 |---|---|---|
-| Clinical Uniqueness | +5.0 | `Cigna ────────────────────● Mt Sinai` |
+| Clinical Uniqueness | +4.0 | `Cigna ──────────────────●── Mt Sinai` |
 
 ## Rationale by Dimension
 
-### Clinical Uniqueness (+5.0)
+### Clinical Uniqueness (+4.0)
 
-Mount Sinai’s Nephrology Division researches infliximab induction therapy for antibody‑mediated rejection, and its researchers have published on infliximab for pyoderma gangrenosum, psoriasis, ulcerative colitis, and Crohn’s disease, indicating a high level of specialty expertise and a unique clinical role for the drug.
+Mount Sinai’s Nephrology Division researches infliximab for antibody‑mediated rejection, and its investigators have published on infliximab for pyoderma gangrenosum, psoriasis, Crohn’s disease, ulcerative colitis, and autoimmune hepatitis, indicating a high level of specialty expertise and a strong clinical niche for this drug.
 
 ## Supporting Facts
 
@@ -28,3 +28,7 @@ Mount Sinai’s Nephrology Division researches infliximab induction therapy for 
   _source: <https://profiles.icahn.mssm.edu/bruce-e-sands>_
 - **[Clinical Uniqueness]** Dr. Sands has conducted extensive observational studies on infliximab outcomes in inflammatory bowel disease, including outcomes research and epidemiologic studies.  
   _source: <https://profiles.icahn.mssm.edu/bruce-e-sands>_
+- **[Clinical Uniqueness]** Infliximab is administered at UKE to patients with autoimmune hepatitis via infusion every 4-8 weeks, replacing steroids.  
+  _source: <https://www.uke.de/allgemein/mediathek/life-das-magazin-aus-dem-uke/patient-innen-berichten/geschichte/selten-ist-nicht-selten.html>_
+- **[Clinical Uniqueness]** Infliximab blocks tumor necrosis factor-alpha, a central molecule in autoimmune hepatitis inflammation.  
+  _source: <https://www.uke.de/allgemein/mediathek/life-das-magazin-aus-dem-uke/patient-innen-berichten/geschichte/selten-ist-nicht-selten.html>_
