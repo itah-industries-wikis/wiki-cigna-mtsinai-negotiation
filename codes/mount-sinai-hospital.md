@@ -1,6 +1,6 @@
 # Mount Sinai Hospital
 
-_Last updated: 2026-08-09 21:02 UTC_
+_Last updated: 2026-08-09 21:07 UTC_
 
 ## Leverage Summary
 
