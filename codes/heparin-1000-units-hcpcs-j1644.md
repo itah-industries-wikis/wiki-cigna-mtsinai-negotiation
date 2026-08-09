@@ -1,6 +1,6 @@
 # Heparin 1000 units (HCPCS J1644)
 
-_Last updated: 2026-08-09 12:45 UTC_
+_Last updated: 2026-08-09 13:06 UTC_
 
 ## Leverage Summary
 
