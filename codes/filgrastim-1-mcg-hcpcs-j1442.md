@@ -1,6 +1,6 @@
 # Filgrastim 1 mcg (HCPCS J1442)
 
-_Last updated: 2026-08-09 02:52 UTC_
+_Last updated: 2026-08-09 03:39 UTC_
 
 ## Leverage Summary
 
