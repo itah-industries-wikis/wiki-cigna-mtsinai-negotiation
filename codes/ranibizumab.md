@@ -1,6 +1,6 @@
 # ranibizumab
 
-_Last updated: 2026-08-10 20:30 UTC_
+_Last updated: 2026-08-10 20:37 UTC_
 
 ## Leverage Summary
 
