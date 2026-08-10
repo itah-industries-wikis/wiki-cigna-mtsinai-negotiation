@@ -1,6 +1,6 @@
 # CPT 2027 maternity care services
 
-_Last updated: 2026-08-10 16:50 UTC_
+_Last updated: 2026-08-10 17:43 UTC_
 
 ## Leverage Summary
 
