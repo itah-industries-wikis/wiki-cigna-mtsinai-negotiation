@@ -1,6 +1,6 @@
 # semaglutide
 
-_Last updated: 2026-08-10 00:53 UTC_
+_Last updated: 2026-08-10 01:02 UTC_
 
 ## Leverage Summary
 
