@@ -1,6 +1,6 @@
 # Undecylenic acid
 
-_Last updated: 2026-08-10 20:37 UTC_
+_Last updated: 2026-08-10 20:48 UTC_
 
 ## Leverage Summary
 
