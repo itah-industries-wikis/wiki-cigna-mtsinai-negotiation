@@ -1,6 +1,6 @@
 # REJOYN
 
-_Last updated: 2026-08-10 11:40 UTC_
+_Last updated: 2026-08-10 12:00 UTC_
 
 ## Leverage Summary
 
