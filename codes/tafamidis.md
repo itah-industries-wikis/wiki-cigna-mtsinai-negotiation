@@ -1,6 +1,6 @@
 # tafamidis
 
-_Last updated: 2026-08-10 18:05 UTC_
+_Last updated: 2026-08-10 18:26 UTC_
 
 ## Leverage Summary
 
