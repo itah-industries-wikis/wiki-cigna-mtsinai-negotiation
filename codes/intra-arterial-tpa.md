@@ -1,6 +1,6 @@
 # intra‑arterial tPA
 
-_Last updated: 2026-08-10 07:10 UTC_
+_Last updated: 2026-08-10 07:20 UTC_
 
 ## Leverage Summary
 
