@@ -1,6 +1,6 @@
 # type 2 diabetes population
 
-_Last updated: 2026-08-10 16:17 UTC_
+_Last updated: 2026-08-10 16:37 UTC_
 
 ## Leverage Summary
 
