@@ -1,6 +1,6 @@
 # Aficamten
 
-_Last updated: 2026-08-10 03:14 UTC_
+_Last updated: 2026-08-10 03:35 UTC_
 
 ## Leverage Summary
 
