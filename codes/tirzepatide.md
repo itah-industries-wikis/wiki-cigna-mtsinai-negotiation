@@ -1,6 +1,6 @@
 # tirzepatide
 
-_Last updated: 2026-08-10 05:53 UTC_
+_Last updated: 2026-08-10 06:16 UTC_
 
 ## Leverage Summary
 
