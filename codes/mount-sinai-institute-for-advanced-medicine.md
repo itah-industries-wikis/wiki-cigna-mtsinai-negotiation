@@ -1,6 +1,6 @@
 # Mount Sinai Institute for Advanced Medicine
 
-_Last updated: 2026-08-10 09:26 UTC_
+_Last updated: 2026-08-10 09:59 UTC_
 
 ## Leverage Summary
 
