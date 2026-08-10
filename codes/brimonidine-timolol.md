@@ -1,6 +1,6 @@
 # brimonidine-timolol
 
-_Last updated: 2026-08-10 19:40 UTC_
+_Last updated: 2026-08-10 19:45 UTC_
 
 ## Leverage Summary
 
