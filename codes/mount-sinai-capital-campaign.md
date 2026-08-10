@@ -1,6 +1,6 @@
 # Mount Sinai capital campaign
 
-_Last updated: 2026-08-10 10:28 UTC_
+_Last updated: 2026-08-10 10:43 UTC_
 
 ## Leverage Summary
 
