@@ -1,6 +1,6 @@
 # Viaskin peanut patch
 
-_Last updated: 2026-08-11 19:01 UTC_
+_Last updated: 2026-08-11 19:17 UTC_
 
 ## Leverage Summary
 
