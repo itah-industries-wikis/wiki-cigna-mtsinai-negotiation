@@ -1,6 +1,6 @@
 # Sirolimus
 
-_Last updated: 2026-08-11 11:57 UTC_
+_Last updated: 2026-08-11 12:02 UTC_
 
 ## Leverage Summary
 
