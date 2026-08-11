@@ -1,6 +1,6 @@
 # anti-VEGF injection
 
-_Last updated: 2026-08-11 05:44 UTC_
+_Last updated: 2026-08-11 05:49 UTC_
 
 ## Leverage Summary
 
