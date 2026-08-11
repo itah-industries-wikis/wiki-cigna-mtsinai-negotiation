@@ -1,6 +1,6 @@
 # dorzolamide-timolol
 
-_Last updated: 2026-08-11 12:08 UTC_
+_Last updated: 2026-08-11 12:13 UTC_
 
 ## Leverage Summary
 
