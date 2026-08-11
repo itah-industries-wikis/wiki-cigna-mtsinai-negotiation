@@ -1,6 +1,6 @@
 # brinzolamide
 
-_Last updated: 2026-08-11 19:39 UTC_
+_Last updated: 2026-08-11 19:50 UTC_
 
 ## Leverage Summary
 
