@@ -1,6 +1,6 @@
 # Etelcalcetide 0.1 mg (HCPCS J0606)
 
-_Last updated: 2026-08-11 10:31 UTC_
+_Last updated: 2026-08-11 10:36 UTC_
 
 ## Leverage Summary
 
