@@ -1,6 +1,6 @@
 # GLP-1 drugs
 
-_Last updated: 2026-08-11 14:43 UTC_
+_Last updated: 2026-08-11 14:54 UTC_
 
 ## Leverage Summary
 
