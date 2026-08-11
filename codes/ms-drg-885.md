@@ -1,6 +1,6 @@
 # MS-DRG 885
 
-_Last updated: 2026-08-11 20:38 UTC_
+_Last updated: 2026-08-11 20:46 UTC_
 
 ## Leverage Summary
 
