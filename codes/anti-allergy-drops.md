@@ -1,6 +1,6 @@
 # Anti‑allergy drops
 
-_Last updated: 2026-08-11 10:16 UTC_
+_Last updated: 2026-08-11 10:21 UTC_
 
 ## Leverage Summary
 
