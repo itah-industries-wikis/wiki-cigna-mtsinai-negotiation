@@ -1,6 +1,6 @@
 # laser trabeculoplasty
 
-_Last updated: 2026-08-11 13:28 UTC_
+_Last updated: 2026-08-11 13:33 UTC_
 
 ## Leverage Summary
 
