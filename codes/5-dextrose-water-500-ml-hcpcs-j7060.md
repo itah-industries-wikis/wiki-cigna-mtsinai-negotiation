@@ -1,6 +1,6 @@
 # 5% Dextrose/Water 500 ml (HCPCS J7060)
 
-_Last updated: 2026-08-11 17:20 UTC_
+_Last updated: 2026-08-11 18:05 UTC_
 
 ## Leverage Summary
 
