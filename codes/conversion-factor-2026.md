@@ -1,6 +1,6 @@
 # Conversion Factor 2026
 
-_Last updated: 2026-08-11 11:17 UTC_
+_Last updated: 2026-08-11 11:22 UTC_
 
 ## Leverage Summary
 
