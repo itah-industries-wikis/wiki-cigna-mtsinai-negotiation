@@ -1,6 +1,6 @@
 # Tetracycline
 
-_Last updated: 2026-08-11 11:42 UTC_
+_Last updated: 2026-08-11 11:47 UTC_
 
 ## Leverage Summary
 
