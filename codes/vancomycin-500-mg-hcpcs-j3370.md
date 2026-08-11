@@ -1,6 +1,6 @@
 # Vancomycin 500 mg (HCPCS J3370)
 
-_Last updated: 2026-08-11 12:28 UTC_
+_Last updated: 2026-08-11 12:33 UTC_
 
 ## Leverage Summary
 
