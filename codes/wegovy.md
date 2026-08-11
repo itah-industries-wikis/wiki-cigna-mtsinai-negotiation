@@ -1,6 +1,6 @@
 # Wegovy
 
-_Last updated: 2026-08-11 11:52 UTC_
+_Last updated: 2026-08-11 11:57 UTC_
 
 ## Leverage Summary
 
