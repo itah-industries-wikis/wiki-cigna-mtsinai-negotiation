@@ -1,6 +1,6 @@
 # 5‑fluorouracil
 
-_Last updated: 2026-08-11 00:15 UTC_
+_Last updated: 2026-08-11 00:37 UTC_
 
 ## Leverage Summary
 
