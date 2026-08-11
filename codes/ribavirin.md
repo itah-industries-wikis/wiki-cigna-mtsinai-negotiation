@@ -1,6 +1,6 @@
 # Ribavirin
 
-_Last updated: 2026-08-11 12:33 UTC_
+_Last updated: 2026-08-11 12:38 UTC_
 
 ## Leverage Summary
 
