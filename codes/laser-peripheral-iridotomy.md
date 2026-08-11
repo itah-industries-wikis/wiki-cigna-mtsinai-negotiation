@@ -1,6 +1,6 @@
 # laser peripheral iridotomy
 
-_Last updated: 2026-08-11 11:32 UTC_
+_Last updated: 2026-08-11 11:37 UTC_
 
 ## Leverage Summary
 
