@@ -1,6 +1,6 @@
 # Anti‑inflammatory drops
 
-_Last updated: 2026-08-11 15:47 UTC_
+_Last updated: 2026-08-11 15:57 UTC_
 
 ## Leverage Summary
 

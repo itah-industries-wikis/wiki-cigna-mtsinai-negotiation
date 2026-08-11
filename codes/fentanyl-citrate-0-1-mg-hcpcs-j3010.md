@@ -1,6 +1,6 @@
 # Fentanyl Citrate 0.1 mg (HCPCS J3010)
 
-_Last updated: 2026-08-11 15:47 UTC_
+_Last updated: 2026-08-11 15:57 UTC_
 
 ## Leverage Summary
 
