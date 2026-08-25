@@ -1,6 +1,6 @@
 # Vitamin K deficiency bleeding
 
-_Last updated: 2026-08-25 17:32 UTC_
+_Last updated: 2026-08-25 22:28 UTC_
 
 ## Leverage Summary
 
