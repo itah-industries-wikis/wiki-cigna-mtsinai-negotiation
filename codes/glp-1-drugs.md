@@ -1,6 +1,6 @@
 # GLP-1 drugs
 
-_Last updated: 2026-08-11 21:11 UTC_
+_Last updated: 2026-08-26 03:49 UTC_
 
 ## Leverage Summary
 
@@ -14,13 +14,11 @@ _Last updated: 2026-08-11 21:11 UTC_
 
 ### Regulatory & Pricing Benchmarks (-4.0)
 
-CMS sets a $50 copay for GLP‑1 drugs, giving Cigna a clear benchmark to negotiate lower rates.
+The CMS facts establish a clear, government-mandated copay ($50) and coverage rules for GLP-1 drugs. This provides Cigna with a strong, external benchmark to push for favorable reimbursement rates, limiting Mount Sinai's ability to set high prices.
 
 ## Supporting Facts
 
-- **[Regulatory & Pricing Benchmarks]** As of July 1, Medicare provides access to certain GLP-1 drugs to help you lose weight and improve your health if you have Medicare drug coverage (Part D), aren’t already getting these drugs covered by Part D, and meet other requirements; you’ll pay a $50 copay for a monthly supply.  
+- **[Regulatory & Pricing Benchmarks]** As of July 1, Medicare provides access to certain GLP-1 drugs for weight loss if the patient has Part D coverage and meets other requirements.  
   _source: <https://www.medicare.gov>_
-- **[Regulatory & Pricing Benchmarks]** Starting July 1, 2026, Medicare will provide access to certain GLP-1 drugs to help patients lose weight, with a $50 copayment for a monthly supply.  
-  _source: <http://medicare.gov/coverage/obesity-behavioral-therapy>_
-- **[Regulatory & Pricing Benchmarks]** As of July 1, Medicare provides access to certain GLP‑1 drugs for weight loss and health improvement for Part D beneficiaries who are not already covered, with a $50 copay for a monthly supply.  
-  _source: <http://www.medicare.gov/>_
+- **[Regulatory & Pricing Benchmarks]** The copay for a monthly supply of these GLP-1 drugs is $50.  
+  _source: <https://www.medicare.gov>_
