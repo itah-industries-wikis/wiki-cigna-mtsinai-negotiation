@@ -1,6 +1,6 @@
 # methadone, buprenorphine
 
-_Last updated: 2026-08-26 02:52 UTC_
+_Last updated: 2026-08-26 02:57 UTC_
 
 ## Leverage Summary
 
